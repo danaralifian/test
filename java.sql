@@ -1,6 +1,6 @@
 /*
 SQLyog Community v9.63 
-MySQL - 5.5.30 : Database - java_akdmk_018
+MySQL - 5.5.30 : Database - java_akdmk_018 --
 *********************************************************************
 */
 
